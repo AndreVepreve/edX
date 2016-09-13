@@ -1,1 +1,2 @@
-# edX
+Programming assignments for edX Courses
+=======================================
